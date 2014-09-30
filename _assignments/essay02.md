@@ -2,9 +2,10 @@
 title: Essay 2
 ---
 
+#### *Why do cities prosper?*
+
 - **Deadline**: Week 10 - Tuesday Dec. 2nd, noon time
 - **Word limit**: 1,000 words
-- **Title**: TBA
 
 #### Logistics
 
