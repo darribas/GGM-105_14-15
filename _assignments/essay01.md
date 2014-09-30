@@ -2,9 +2,10 @@
 title: Essay 1
 ---
 
+#### *Geography and Economics as tools to understand cities: how are they similar and in what do they differ?*
+
 - **Deadline**: Week 3 - Tuesday Oct. 14th, noon time
 - **Word limit**: 1,000 words
-- **Title**: *Geography and Economics as tools to understand cities: how are they similar and in what do they differ?*
 
 #### Logistics
 
