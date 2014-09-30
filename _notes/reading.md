@@ -2,5 +2,5 @@
 title: Reading
 ---
 
-bla bla
+Information about critical and effective reading here.
 
