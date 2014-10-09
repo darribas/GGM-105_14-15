@@ -7,6 +7,8 @@ baseurl: "/GGM-105_14-15"  # Replace with name of repo
 markdown: kramdown
 
 collections:
+  sessions:
+    output: true
   notes:
     output: true
   assignments:
