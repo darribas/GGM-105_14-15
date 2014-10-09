@@ -32,8 +32,6 @@ Jacobs (1961). Pages 50-54
 * Discuss outline of entire course
 * Reading: *"Cities and Regions in the Twenty-First Century: Why Do They Develop and Change?"* ([pdf](http://press.princeton.edu/chapters/i10022.pdf)). Chapter 1 in [*"Keys to the City: How Economics, Institutions,
   Social Interaction, and Politics Shape Development"*](http://press.princeton.edu/titles/10022.html), by Michael Storper (2013).
-* Additional (voluntary): Michael Storper's presentation of the book at LSE
-  ([video](http://www.lse.ac.uk/newsAndMedia/videoAndAudio/channels/publicLecturesAndEvents/player.aspx?id=2065)).
 
 #### Week 3
 
