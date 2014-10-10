@@ -36,12 +36,12 @@ Jacobs (1961). Pages 50-54
 #### Week 3
 
 * Deadline to submit **Essay 1**
-* Reading: TBA (Migration)
+* Reading: *"Introduction"*. Chapter 1 in [*"The New Geography of Jobs"*](http://www.hmhbooks.com/newgeographyofjobs/), by Enrico Moretti (2012).
 * Skill of the day: reading
 
 #### Week 4
 
-* Reading: *"Introduction"*. Chapter 1 in [*"The New Geography of Jobs"*](http://www.hmhbooks.com/newgeographyofjobs/), by Enrico Moretti (2012).
+* Reading: TBA (Migration)
 * Skill of the day: searching
 
 #### Week 5 - Progress review tutorials
