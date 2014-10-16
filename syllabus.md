@@ -41,8 +41,8 @@ Jacobs (1961). Pages 50-54
 #### Week 4
 
 * Readings:
-    * *"Other things equal - Economical Writing: An Executive Summary"* ([pdf](http://www.deirdremccloskey.org/docs/pdf/Article_309.pdf)) by Deirdre McCloskey.
     * *"What is critical reading?"* ([pdf](https://www2.le.ac.uk/offices/ld/resources/pdfs-of-study-guides/writing-skills-pdfs/critical-reading-v1%200.pdf)) Learning Development resource by the University of Leicester.
+    * *"Other things equal - Economical Writing: An Executive Summary"* ([pdf](http://www.deirdremccloskey.org/docs/pdf/Article_309.pdf)) by Deirdre McCloskey.
 * Skills of the day (check their pages under Notes): searching, reading and writing
 
 #### Week 5 - Progress review tutorials
