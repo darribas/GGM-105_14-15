@@ -72,6 +72,7 @@ Jacobs (1961). Pages 50-54
 * Reading: *"Consumer city"*, by Edward L. Glaeser, Jed Kolko, and Albert Saiz
   (2001). Journal of Economic Geography, 1. Pages 27-50 ([link](http://joeg.oxfordjournals.org/content/1/1/27.short))
 * Touch base on progress of the essay
+* Skill of the day: citing
 
 #### Week 10
 
