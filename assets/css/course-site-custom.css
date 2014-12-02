@@ -19,6 +19,7 @@ html {
 }
 #body {
     font-family:'CMS', Helvetica, Arial, sans-serif;
+    font-size: 18px;
     /*padding:50px;*/
     color:#474747;
     font-weight:300;
