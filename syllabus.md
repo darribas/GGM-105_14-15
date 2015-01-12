@@ -13,6 +13,11 @@ layout: default
 Readings for each Week Will be provided, at the latest, the Week before at the
 tutorial session.
 
+* [Semester 1](#s1)
+* [Semester 2](#s2)
+
+<a name="s1"></a>
+
 ### Semester 1 - Autumn
 
 #### Week 0
@@ -79,4 +84,16 @@ Jacobs (1961). Pages 50-54
 * Deadline to submit **Essay 2**
 * Reading: *"The Kind of a Problem a City Is"* by Luís Bettencourt ([pdf](http://www.santafe.edu/media/workingpapers/13-03-008.pdf)). Chapter in [*Die Stadt entschlüsseln*](http://www.degruyter.com/viewbooktoc/product/206812), edited by Dietmar Offenhuber and Carlo Ratti (2013).
 
+<a name="s2"></a>
+
+### Semester 2 - Spring
+
+#### Week 2
+
+* Organization of Seminars for Second Semester
+
+#### Week 3 - Progress Review Tutorials
+
+* Return Essay 2
+* 10 minute individual discussions
 

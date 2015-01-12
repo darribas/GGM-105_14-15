@@ -7,7 +7,7 @@ title: Essay 2 - S1
 - **Deadline**: Week 10 - Tuesday Dec. 2nd, noon time
 - **Word limit**: 1,000 words
 
-#### Logistics
+### Logistics
 
 Students need to submit two copies of the essay: 
 

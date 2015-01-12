@@ -7,7 +7,7 @@ title: Essay 3 - S2
 - **Deadline**: Week 8 - Tuesday March 3rd, noon time
 - **Word limit**: 2,000 words
 
-#### Logistics
+### Logistics
 
 Students need to submit two copies of the essay: 
 
