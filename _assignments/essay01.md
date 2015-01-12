@@ -1,5 +1,5 @@
 ---
-title: Essay 1
+title: Essay 1 - S1
 ---
 
 #### *Geography and Economics as tools to understand cities: how are they similar and in what do they differ?*
