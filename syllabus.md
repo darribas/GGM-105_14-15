@@ -97,3 +97,29 @@ Jacobs (1961). Pages 50-54
 * Return Essay 2
 * 10 minute individual discussions
 
+#### Week 4
+
+- Essay 3 topic discussion
+- Milestone: topic chosen
+
+#### Week 5
+
+- Essay 3 topic discussion
+- Milestone: reading list completed
+
+#### Week 6
+
+- Essay 3 topic discussion
+- Milestone: struture of ideas and text
+
+#### Week 7 - No tutorial
+
+- Essay 3 writing
+
+#### Week 8
+
+* Deadline to submit **Essay 3** (Tuesday noon,
+  [details](assignments/essay03.html))
+* Speaking skills
+* Discussion about presentation (see [notes](notes/speaking.html))
+
