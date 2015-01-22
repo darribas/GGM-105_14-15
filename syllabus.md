@@ -123,3 +123,8 @@ Jacobs (1961). Pages 50-54
 * Speaking skills
 * Discussion about presentation (see [notes](notes/speaking.html))
 
+#### Week 9
+
+* Presentations (11:30am/2:00pm)
+
+
