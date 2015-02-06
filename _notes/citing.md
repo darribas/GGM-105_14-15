@@ -39,8 +39,11 @@ mentioned in the references list appears in the text at least once.
 Have a look at the following two resources to dig further on how to cite
 properly:
 
-* [University help on referencing with the Harvard system](https://intranet.birmingham.ac.uk/as/libraryservices/library/referencing/icite/referencing/harvard/referencelist.aspx)
-* [University of Exeter guide on referencing](http://education.exeter.ac.uk/dll/studyskills/harvard_referencing.htm)
+* [University resource on
+        referencing](https://intranet.birmingham.ac.uk/as/libraryservices/library/referencing/icite/index.aspx)
+(including link to different tools).
+* [University help on referencing with the Harvard system](https://intranet.birmingham.ac.uk/as/libraryservices/library/referencing/icite/referencing/harvard/referencelist.aspx).
+* [University of Exeter guide on referencing](http://education.exeter.ac.uk/dll/studyskills/harvard_referencing.htm).
 
 As mentioned in the Student Handbook, [GEES](http://www.birmingham.ac.uk/schools/gees/index.aspx)
 has a general rule to, unless stated differently, adopt the Havard System. 
@@ -60,16 +63,16 @@ choice.
 General popular options:
 
 * [Mendeley](http://www.mendeley.com/): cloud/local system to manage
-  bibliographies and reference lists
-* [Zotero](https://www.zotero.org/): bibliography manager (open source)
+  bibliographies and reference lists.
+* [Zotero](https://www.zotero.org/): bibliography manager (open source).
 * [EndNote](http://endnote.com/): bibliography manager and referencing system
-  (proprietary)
+  (proprietary).
 
 Options specifically designed for particular typesetting systems:
 
-* [BibTex](http://www.bibtex.org/): bibliography manager and referencing system (open source, built to work with [LaTeX](http://www.latex-project.org/))
-* [Microsoft Word](https://support.office.com/en-us/article/Create-a-bibliography-3403c027-96c8-40d3-a386-bfd5c413ddbb?ui=en-US&rs=en-US&ad=US) also has built-in functionality for bibliography
+* [BibTex](http://www.bibtex.org/): bibliography manager and referencing system (open source, built to work with [LaTeX](http://www.latex-project.org/)).
+* [Microsoft Word](https://support.office.com/en-us/article/Create-a-bibliography-3403c027-96c8-40d3-a386-bfd5c413ddbb?ui=en-US&rs=en-US&ad=US) also has built-in functionality for bibliography.
 
 For a more comprehensive list, have a look at the [WikiPedia list of reference
-management software](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
+management software](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software).
 
