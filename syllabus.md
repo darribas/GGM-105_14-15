@@ -112,19 +112,22 @@ Jacobs (1961). Pages 50-54
 - Essay 3 topic discussion
 - Milestone: struture of ideas and text
 
-#### Week 7 - No tutorial
+#### Week 7
 
 - Essay 3 writing
+- Discussion on difficulties in preparing the essay
 
-#### Week 8
+#### Week 8 - No tutorial
 
 * Deadline to submit **Essay 3** (Tuesday noon,
   [details](assignments/essay03.html))
+
+#### Week 9
 * Speaking skills
 * Discussion about presentation (see [notes](notes/speaking.html))
 
-#### Week 9
+#### Week 10
 
-* Presentations (11:30am/2:00pm)
+* Presentations (Monday 10:00am/1:00pm, G-36)
 
 
