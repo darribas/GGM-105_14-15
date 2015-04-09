@@ -1,4 +1,4 @@
-# Feedback received from students taking the modul
+# Feedback received from students taking the module
 
 ## 2014/15
 
