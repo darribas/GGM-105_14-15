@@ -16,5 +16,8 @@
 
 * They all found very positive the experiencing of planning carefully for Essay 3 and suggested it might be good to do similar planning also for Essay 2, even though the question is given at that point.
 
-* All of them found the website a very useful resource.
+* All of them found the website a very useful resource. In particular, it was
+valued the fact that all the materials were centralized in one place that was
+very easy to access and they could go back at any time if they needed to
+consult something in particular.
 
